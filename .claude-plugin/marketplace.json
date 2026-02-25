@@ -1,0 +1,17 @@
+{
+  "name": "pare-claude-md",
+  "owner": {
+    "name": "wooters"
+  },
+  "metadata": {
+    "description": "Pare CLAUDE.md/AGENTS.md files down to bare essentials using the obviousness principle",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pare-claude-md",
+      "description": "Pare down a CLAUDE.md or AGENTS.md file to its bare essentials. Removes anything a staff-level engineer or AI assistant would already know, keeping only non-obvious project-specific information.",
+      "skills": ["./skills/pare-claude-md"]
+    }
+  ]
+}
