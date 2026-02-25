@@ -48,18 +48,9 @@ The skill:
 
 ### Manual
 
-Copy `pare-claude-md/skills/pare-claude-md/SKILL.md` into your `~/.claude/skills/pare-claude-md/` directory. With manual installation, the skill is available as the shorter `/pare-claude-md` command.
+Copy `pare-claude-md/skills/pare-claude-md/SKILL.md` into your `~/.claude/skills/pare-claude-md/` directory.
 
 ## Usage
-
-When installed via the marketplace:
-
-```
-/pare-claude-md:pare-claude-md
-/pare-claude-md:pare-claude-md ./path/to/CLAUDE.md
-```
-
-When installed manually:
 
 ```
 /pare-claude-md
