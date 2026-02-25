@@ -57,6 +57,10 @@ Copy `skills/pare-claude-md/SKILL.md` into your `~/.claude/skills/pare-claude-md
 /pare-claude-md ./path/to/CLAUDE.md
 ```
 
+## Credits
+
+The core engineering principles used by this skill are based on [Daniel Bernal's post on X](https://x.com/afterxleep/status/2025469103972970882).
+
 ## License
 
 MIT
