@@ -2,7 +2,7 @@
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that pares CLAUDE.md and AGENTS.md files to their bare essentials.
 
-## Motivation
+## Why It Matters
 
 A February 2026 paper from ETH Zurich, ["Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?"](https://arxiv.org/abs/2502.11901) (Gloaguen, Mündler, Müller, Raychev, and Vechev), found that bloated context files hurt more than they help. LLM-generated context files reduced agent success rates by 0.5-2% while increasing inference costs by over 20%. Even developer-written files improved success rates by only ~4%, at the cost of extra tokens and tool steps.
 
